@@ -1,4 +1,10 @@
+<img src="header_icon.png" align="right" width="256" alt="header pic"/>
+
 # Data Science Adventures
+
+![License](https://img.shields.io/github/license/lukzmu/data-science)
+![Size](https://img.shields.io/github/languages/code-size/lukzmu/data-science)
+
 Hey there! This is my repository for anything related to **Data Science**. Nothing fancy, just checking out various courses, competitions and mini-projects. Maybe you will find this helpful. Enjoy!
 
 ## Kaggle
