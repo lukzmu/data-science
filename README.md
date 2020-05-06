@@ -8,3 +8,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 ## DataCamp
 
 - [Exploring 67 years of LEGO](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
+- [Comparing Cosmetics by Ingredients](https://github.com/lukzmu/data-science/blob/master/DataCamp/Comparing%20Cosmetics%20by%20Ingredients/notebook.ipynb)
