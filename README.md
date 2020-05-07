@@ -16,3 +16,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Exploring 67 years of LEGO](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
 - [Comparing Cosmetics by Ingredients](https://github.com/lukzmu/data-science/blob/master/DataCamp/Comparing%20Cosmetics%20by%20Ingredients/notebook.ipynb)
 - [Up and Down With the Kardashians](https://github.com/lukzmu/data-science/blob/master/DataCamp/Up%20and%20Down%20With%20the%20Kardashians/notebook.ipynb)
+- [Disney Movies and Box Office Success](https://github.com/lukzmu/data-science/blob/master/DataCamp/Disney%20Movies%20and%20Box%20Office%20Success/notebook.ipynb)
