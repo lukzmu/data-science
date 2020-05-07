@@ -11,6 +11,10 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 
 - [Aerial Cactus Classification](https://github.com/lukzmu/data-science/blob/master/Kaggle/Aerial%20Cactus%20Classification/aerial-cactus.ipynb) `python`
 
+## Coursera
+
+- [Stanford Machine Learning](https://github.com/lukzmu/data-science/tree/master/Coursera/Stanford%20Machine%20Learning) `octave`
+
 ## DataCamp
 
 - [Exploring 67 years of LEGO](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%2067%20years%20of%20LEGO/notebook.ipynb) `python`
