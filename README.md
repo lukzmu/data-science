@@ -21,3 +21,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Comparing Cosmetics by Ingredients](https://github.com/lukzmu/data-science/blob/master/DataCamp/Comparing%20Cosmetics%20by%20Ingredients/notebook.ipynb) `python`
 - [Up and Down With the Kardashians](https://github.com/lukzmu/data-science/blob/master/DataCamp/Up%20and%20Down%20With%20the%20Kardashians/notebook.ipynb) `python`
 - [Disney Movies and Box Office Success](https://github.com/lukzmu/data-science/blob/master/DataCamp/Disney%20Movies%20and%20Box%20Office%20Success/notebook.ipynb) `python`
+- [Who's Tweeting? Trump or Trudeau?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Who's%20Tweeting%3F%20Trump%20or%20Trudeau%3F/notebook.ipynb) `python`
