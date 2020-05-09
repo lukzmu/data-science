@@ -13,7 +13,7 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 
 ## Coursera
 
-- [Stanford Machine Learning](https://github.com/lukzmu/data-science/tree/master/Coursera/Stanford%20Machine%20Learning) `octave`
+- [Stanford Machine Learning](https://github.com/lukzmu/data-science/tree/master/Coursera/Stanford%20Machine%20Learning) `matlab`
 
 ## DataCamp
 
@@ -23,3 +23,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Disney Movies and Box Office Success](https://github.com/lukzmu/data-science/blob/master/DataCamp/Disney%20Movies%20and%20Box%20Office%20Success/notebook.ipynb) `python`
 - [Who's Tweeting? Trump or Trudeau?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Who's%20Tweeting%3F%20Trump%20or%20Trudeau%3F/notebook.ipynb) `python`
 - [Analyze Your Runkeeper Fitness Data](https://github.com/lukzmu/data-science/blob/master/DataCamp/Analyze%20Your%20Runkeeper%20Fitness%20Data/notebook.ipynb) `python`
+- [Book Recommendations from Charles Darwin](https://github.com/lukzmu/data-science/blob/master/DataCamp/Book%20Recommendations%20from%20Charles%20Darwin/notebook.ipynb) `python`
