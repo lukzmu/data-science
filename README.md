@@ -28,3 +28,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Give Life: Predict Blood Donations](https://github.com/lukzmu/data-science/blob/master/DataCamp/Give%20Life:%20Predict%20Blood%20Donations/notebook.ipynb) `python`
 - [Bad passwords and the NIST guidelines](https://github.com/lukzmu/data-science/blob/master/DataCamp/Bad%20passwords%20and%20the%20NIST%20guidelines/notebook.ipynb) `python`
 - [Which Debts Are Worth the Bank's Effort?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort%3F/notebook.ipynb) `python`
+- [Find Movie Similarity from Plot Summaries](https://github.com/lukzmu/data-science/blob/master/DataCamp/Find%20Movie%20Similarity%20from%20Plot%20Summaries/notebook.ipynb) `python`
