@@ -25,4 +25,5 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Analyze Your Runkeeper Fitness Data](https://github.com/lukzmu/data-science/blob/master/DataCamp/Analyze%20Your%20Runkeeper%20Fitness%20Data/notebook.ipynb) `python`
 - [Book Recommendations from Charles Darwin](https://github.com/lukzmu/data-science/blob/master/DataCamp/Book%20Recommendations%20from%20Charles%20Darwin/notebook.ipynb) `python`
 - [Real-time Insights from Social Media Data](https://github.com/lukzmu/data-science/blob/master/DataCamp/Real-time%20Insights%20from%20Social%20Media%20Data/notebook.ipynb) `python`
+- [Give Life: Predict Blood Donations](https://github.com/lukzmu/data-science/blob/master/DataCamp/Give%20Life:%20Predict%20Blood%20Donations/notebook.ipynb) `python`
 - [Bad passwords and the NIST guidelines](https://github.com/lukzmu/data-science/blob/master/DataCamp/Bad%20passwords%20and%20the%20NIST%20guidelines/notebook.ipynb) `python`
