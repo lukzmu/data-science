@@ -30,3 +30,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Which Debts Are Worth the Bank's Effort?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort%3F/notebook.ipynb) `python`
 - [Find Movie Similarity from Plot Summaries](https://github.com/lukzmu/data-science/blob/master/DataCamp/Find%20Movie%20Similarity%20from%20Plot%20Summaries/notebook.ipynb) `python`
 - [Reducing Traffic Mortality in the USA](https://github.com/lukzmu/data-science/blob/master/DataCamp/Reducing%20Traffic%20Mortality%20in%20the%20USA/notebook.ipynb) `python`
+- [ASL Recognition with Deep Learning](https://github.com/lukzmu/data-science/blob/master/DataCamp/ASL%20Recognition%20with%20Deep%20Learning/notebook.ipynb) `python`
