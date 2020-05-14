@@ -33,3 +33,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Do Left-handed People Really Die Young?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Do%20Left-handed%20People%20Really%20Die%20Young%3F/notebook.ipynb) `python`
 - [ASL Recognition with Deep Learning](https://github.com/lukzmu/data-science/blob/master/DataCamp/ASL%20Recognition%20with%20Deep%20Learning/notebook.ipynb) `python`
 - [Naïve Bees: Image Loading and Processing](https://github.com/lukzmu/data-science/blob/master/DataCamp/Na%C3%AFve%20Bees:%20Image%20Loading%20and%20Processing/notebook.ipynb) `python`
+- [Naïve Bees: Predict Species from Images](https://github.com/lukzmu/data-science/blob/master/DataCamp/Na%C3%AFve%20Bees:%20Predict%20Species%20from%20Images/notebook.ipynb) `python`
