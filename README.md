@@ -36,3 +36,4 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Naïve Bees: Predict Species from Images](https://github.com/lukzmu/data-science/blob/master/DataCamp/Na%C3%AFve%20Bees:%20Predict%20Species%20from%20Images/notebook.ipynb) `python`
 - [Naïve Bees: Deep Learning with Images](https://github.com/lukzmu/data-science/blob/master/DataCamp/Na%C3%AFve%20Bees:%20Deep%20Learning%20with%20Images/notebook.ipynb) `python`
 - [Who Is Drunk and When in Ames, Iowa?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa%3F/notebook.ipynb) `python`
+- [Recreating John Snow's Ghost Map](https://github.com/lukzmu/data-science/blob/master/DataCamp/Recreating%20John%20Snow's%20Ghost%20Map/notebook.ipynb) `python`
