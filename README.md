@@ -37,3 +37,6 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Naïve Bees: Deep Learning with Images](https://github.com/lukzmu/data-science/blob/master/DataCamp/Na%C3%AFve%20Bees:%20Deep%20Learning%20with%20Images/notebook.ipynb) `python`
 - [Who Is Drunk and When in Ames, Iowa?](https://github.com/lukzmu/data-science/blob/master/DataCamp/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa%3F/notebook.ipynb) `python`
 - [Recreating John Snow's Ghost Map](https://github.com/lukzmu/data-science/blob/master/DataCamp/Recreating%20John%20Snow's%20Ghost%20Map/notebook.ipynb) `python`
+- [Extract Stock Sentiment from News Headlines](https://github.com/lukzmu/data-science/blob/master/DataCamp/Extract%20Stock%20Sentiment%20from%20News%20Headlines/notebook.ipynb) `python`
+- [Mobile Games AB Testing with Cookie Cats](https://github.com/lukzmu/data-science/blob/master/DataCamp/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb) `python`
+- [Name Game: Gender Prediction using Sound](https://github.com/lukzmu/data-science/blob/master/DataCamp/Name%20Game:%20Gender%20Prediction%20using%20Sound/notebook.ipynb) `python`
