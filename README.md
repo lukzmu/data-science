@@ -40,3 +40,6 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Extract Stock Sentiment from News Headlines](https://github.com/lukzmu/data-science/blob/master/DataCamp/Extract%20Stock%20Sentiment%20from%20News%20Headlines/notebook.ipynb) `python`
 - [Mobile Games AB Testing with Cookie Cats](https://github.com/lukzmu/data-science/blob/master/DataCamp/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb) `python`
 - [Name Game: Gender Prediction using Sound](https://github.com/lukzmu/data-science/blob/master/DataCamp/Name%20Game:%20Gender%20Prediction%20using%20Sound/notebook.ipynb) `python`
+- [Word Frequency in Moby Dick](https://github.com/lukzmu/data-science/blob/master/DataCamp/Word%20Frequency%20in%20Moby%20Dick/notebook.ipynb) `python`
+- [Classify Song Genres from Audio Data](https://github.com/lukzmu/data-science/blob/master/DataCamp/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb) `python`
+- [A Visual History of Nobel Prize Winners](https://github.com/lukzmu/data-science/blob/master/DataCamp/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb) `python`
