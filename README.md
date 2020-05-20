@@ -43,3 +43,6 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Word Frequency in Moby Dick](https://github.com/lukzmu/data-science/blob/master/DataCamp/Word%20Frequency%20in%20Moby%20Dick/notebook.ipynb) `python`
 - [Classify Song Genres from Audio Data](https://github.com/lukzmu/data-science/blob/master/DataCamp/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb) `python`
 - [A Visual History of Nobel Prize Winners](https://github.com/lukzmu/data-science/blob/master/DataCamp/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb) `python`
+- [Generating Keywords for Google Ads](https://github.com/lukzmu/data-science/blob/master/DataCamp/Generating%20Keywords%20for%20Google%20Ads/notebook.ipynb) `python`
+- [A New Era of Data Analysis in Baseball](https://github.com/lukzmu/data-science/blob/master/DataCamp/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/notebook.ipynb) `python`
+- [Exploring the Evolution of Linux](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%20the%20Evolution%20of%20Linux/notebook.ipynb) `python`
