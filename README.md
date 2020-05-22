@@ -47,3 +47,6 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [A New Era of Data Analysis in Baseball](https://github.com/lukzmu/data-science/blob/master/DataCamp/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/notebook.ipynb) `python`
 - [Exploring the Evolution of Linux](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%20the%20Evolution%20of%20Linux/notebook.ipynb) `python`
 - [The Hottest Topics in Machine Learning](https://github.com/lukzmu/data-science/blob/master/DataCamp/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb) `python`
+- [The GitHub History of the Scala Language](https://github.com/lukzmu/data-science/blob/master/DataCamp/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb) `python`
+- [Risk and Returns: The Sharpe Ratio](https://github.com/lukzmu/data-science/blob/master/DataCamp/Risk%20and%20Returns:%20The%20Sharpe%20Ratio/notebook.ipynb) `python`
+- [Predicting Credit Card Approvals](https://github.com/lukzmu/data-science/blob/master/DataCamp/Predicting%20Credit%20Card%20Approvals/notebook.ipynb) `python`
