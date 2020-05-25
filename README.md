@@ -50,3 +50,6 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [The GitHub History of the Scala Language](https://github.com/lukzmu/data-science/blob/master/DataCamp/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook.ipynb) `python`
 - [Risk and Returns: The Sharpe Ratio](https://github.com/lukzmu/data-science/blob/master/DataCamp/Risk%20and%20Returns:%20The%20Sharpe%20Ratio/notebook.ipynb) `python`
 - [Predicting Credit Card Approvals](https://github.com/lukzmu/data-science/blob/master/DataCamp/Predicting%20Credit%20Card%20Approvals/notebook.ipynb) `python`
+- [A Network Analysis of Game of Thrones](https://github.com/lukzmu/data-science/blob/master/DataCamp/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook.ipynb) `python`
+- [The Android App Market on Google Play](https://github.com/lukzmu/data-science/blob/master/DataCamp/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb) `python`
+- [Exploring the Bitcoin Cryptocurrency Market](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb) `python`
