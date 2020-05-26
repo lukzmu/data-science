@@ -53,3 +53,5 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [A Network Analysis of Game of Thrones](https://github.com/lukzmu/data-science/blob/master/DataCamp/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook.ipynb) `python`
 - [The Android App Market on Google Play](https://github.com/lukzmu/data-science/blob/master/DataCamp/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb) `python`
 - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb) `python`
+- [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/lukzmu/data-science/blob/master/DataCamp/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb) `python`
+- [TV, Halftime Shows, and the Big Game](https://github.com/lukzmu/data-science/blob/master/DataCamp/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) `python`
