@@ -7,9 +7,14 @@
 
 Hey there! This is my repository for anything related to **Data Science**. Nothing fancy, just checking out various courses, competitions and mini-projects. Maybe you will find this helpful. Enjoy!
 
-## Kaggle
+Over time this repo grew a bit, so for your convenience here are links to sections:
 
-- [Aerial Cactus Classification](https://github.com/lukzmu/data-science/blob/master/Kaggle/Aerial%20Cactus%20Classification/aerial-cactus.ipynb) `python`
+- [Coursera](#coursera)
+- [DataCamp](#datacamp)
+- [Kaggle](#kaggle)
+- [Other](#other)
+
+---
 
 ## Coursera
 
@@ -55,3 +60,11 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/lukzmu/data-science/blob/master/DataCamp/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb) `python`
 - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/lukzmu/data-science/blob/master/DataCamp/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb) `python`
 - [TV, Halftime Shows, and the Big Game](https://github.com/lukzmu/data-science/blob/master/DataCamp/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) `python`
+
+## Kaggle
+
+- [Aerial Cactus Classification](https://github.com/lukzmu/data-science/blob/master/Kaggle/Aerial%20Cactus%20Classification/aerial-cactus.ipynb) `python`
+
+## Other
+
+- [World of Warcraft Auction House](https://github.com/lukzmu/data-science/blob/master/Other/World%20of%20Warcraft%20Auction%20House/notebook.ipynb) `python`
