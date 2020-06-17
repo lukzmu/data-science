@@ -9,16 +9,11 @@ Hey there! This is my repository for anything related to **Data Science**. Nothi
 
 Over time this repo grew a bit, so for your convenience here are links to sections:
 
-- [Coursera](#coursera)
 - [DataCamp](#datacamp)
 - [Kaggle](#kaggle)
 - [Other](#other)
 
 ---
-
-## Coursera
-
-- [Stanford Machine Learning](https://github.com/lukzmu/data-science/tree/master/Coursera/Stanford%20Machine%20Learning) `matlab`
 
 ## DataCamp
 
