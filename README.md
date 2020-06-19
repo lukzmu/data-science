@@ -64,6 +64,13 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
    - [Exercise: One step lookahead](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-one-step-lookahead.ipynb) `python`
    - [Exercise: N-Step Lookahead](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-n-step-lookahead.ipynb) `python`
    - [Exercise: Deep Reinforcement Learning](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-deep-reinforcement-learning.ipynb) `python`
+- Pandas Course
+   - [Creating, Reading and Writing](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-creating-reading-and-writing.ipynb) `python`
+   - [Indexing, Selecting and Assigning](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-indexing-selecting-assigning.ipynb) `python`
+   - [Summary Functions and Maps](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-summary-functions-and-maps.ipynb) `python`
+   - [Grouping and Sorting](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-grouping-and-sorting.ipynb) `python`
+   - [Data Types and Missing Values](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-data-types-and-missing-values.ipynb) `python`
+   - [Renaming and Combining](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-renaming-and-combining.ipynb) `python`
 
 ## Other
 
