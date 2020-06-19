@@ -62,6 +62,8 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
 - Intro to Game AI and Reinforcement Learning
    - [Exercise: Play the game](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-play-the-game.ipynb) `python`
    - [Exercise: One step lookahead](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-one-step-lookahead.ipynb) `python`
+   - [Exercise: N-Step Lookahead](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-n-step-lookahead.ipynb) `python`
+   - [Exercise: Deep Reinforcement Learning](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-deep-reinforcement-learning.ipynb) `python`
 
 ## Other
 
