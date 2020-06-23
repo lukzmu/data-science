@@ -71,6 +71,10 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
    - [Grouping and Sorting](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-grouping-and-sorting.ipynb) `python`
    - [Data Types and Missing Values](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-data-types-and-missing-values.ipynb) `python`
    - [Renaming and Combining](https://github.com/lukzmu/data-science/blob/master/Kaggle/Pandas%20Course/exercise-renaming-and-combining.ipynb) `python`
+- Intro to Machine Learning
+   - [Exercise: Explore Your Data](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-explore-your-data.ipynb) `python`
+   - [Exercise: Your First Machine Learning Model](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-your-first-machine-learning-model.ipynb) `python`
+   - [Exercise: Model Validation](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-model-validation.ipynb) `python`
 
 ## Other
 
