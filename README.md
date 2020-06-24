@@ -75,6 +75,8 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
    - [Exercise: Explore Your Data](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-explore-your-data.ipynb) `python`
    - [Exercise: Your First Machine Learning Model](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-your-first-machine-learning-model.ipynb) `python`
    - [Exercise: Model Validation](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-model-validation.ipynb) `python`
+   - [Exercise: Random Forests](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-random-forests.ipynb) `python`
+   - [Exercise: Machine Learning Competitions](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intro%20to%20Machine%20Learning/exercise-machine-learning-competitions.ipynb) `python`
 
 ## Other
 
