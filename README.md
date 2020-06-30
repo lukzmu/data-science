@@ -80,6 +80,7 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
 - Intermediate Machine Learning
    - [Introduction](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intermediate%20Machine%20Learning/exercise-introduction.ipynb) `python`
    - [Missing Values](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intermediate%20Machine%20Learning/exercise-missing-values.ipynb) `python`
+   - [Categorical Variables](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intermediate%20Machine%20Learning/exercise-categorical-variables.ipynb) `python`
 
 ## Other
 
