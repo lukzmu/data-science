@@ -85,6 +85,11 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
    - [Cross-Validation](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intermediate%20Machine%20Learning/exercise-cross-validation.ipynb) `python`
    - [XGBoost](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intermediate%20Machine%20Learning/exercise-xgboost.ipynb) `python`
    - [Data Leakage](https://github.com/lukzmu/data-science/blob/master/Kaggle/Intermediate%20Machine%20Learning/exercise-data-leakage.ipynb) `python`
+- Data Visualization
+   - [Hello, Seaborn](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-hello-seaborn.ipynb) `python`
+   - [Line Charts](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-line-charts.ipynb) `python`
+   - [Bar Charts and Heatmaps](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-bar-charts-and-heatmaps.ipynb) `python`
+   - [Scatter Plots](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-scatter-plots.ipynb) `python`
 
 ## Other
 
