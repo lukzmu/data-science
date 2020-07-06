@@ -90,6 +90,9 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
    - [Line Charts](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-line-charts.ipynb) `python`
    - [Bar Charts and Heatmaps](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-bar-charts-and-heatmaps.ipynb) `python`
    - [Scatter Plots](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-scatter-plots.ipynb) `python`
+   - [Distributions](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-distributions.ipynb) `python`
+   - [Choosing Plots and Custom Styles](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-choosing-plot-types-and-custom-styles.ipynb) `python`
+   - [Final Project](https://github.com/lukzmu/data-science/blob/master/Kaggle/Data%20Visualization/exercise-final-project.ipynb) `python`
 
 ## Other
 
