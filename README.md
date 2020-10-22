@@ -2,8 +2,8 @@
 
 # Data Science Adventures
 
-![License](https://img.shields.io/github/license/lukzmu/data-science)
-![Size](https://img.shields.io/github/languages/code-size/lukzmu/data-science)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Languages](https://img.shields.io/badge/languages-python-lightgrey)
 
 Hey there! This is my repository for anything related to **Data Science**. Nothing fancy, just checking out various courses, competitions and mini-projects. Maybe you will find this helpful. Enjoy!
 
