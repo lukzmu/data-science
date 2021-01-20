@@ -55,6 +55,7 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
 - [Exploring the Bitcoin Cryptocurrency Market](/DataCamp/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb) `python`
 - [Dr. Semmelweis and the Discovery of Handwashing](/DataCamp/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb) `python`
 - [TV, Halftime Shows, and the Big Game](/DataCamp/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) `python`
+- [TV Ratings, Guest Stars, and The Office](/DataCamp/TV%20Ratings%2C%20Guest%20Stars%2C%20and%20The%20Office) `python`
 
 ## Kaggle
 
