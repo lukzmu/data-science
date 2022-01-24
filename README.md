@@ -11,7 +11,6 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
 
 - [DataCamp](#datacamp)
 - [Kaggle](#kaggle)
-- [Other](#other)
 
 ---
 
@@ -59,7 +58,6 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
 
 ## Kaggle
 
-- [Aerial Cactus Classification](/Kaggle/Aerial%20Cactus%20Classification/aerial-cactus.ipynb) `python`
 - Intro to Game AI and Reinforcement Learning
    - [Exercise: Play the game](/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-play-the-game.ipynb) `python`
    - [Exercise: One step lookahead](/Kaggle/Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning/exercise-one-step-lookahead.ipynb) `python`
@@ -95,8 +93,3 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
    - [Choosing Plots and Custom Styles](/Kaggle/Data%20Visualization/exercise-choosing-plot-types-and-custom-styles.ipynb) `python`
    - [Final Project](/Kaggle/Data%20Visualization/exercise-final-project.ipynb) `python`
 
-## Other
-
-- [World of Warcraft Auction House](/Other/World%20of%20Warcraft%20Auction%20House/notebook.ipynb) `python`
-- [Digit Recognizer using PyTorch](Other/Digit%20Recognizer%20using%20PyTorch/notebook.ipynb) `python`
-- [Merixstudio tweet sentiment analysis](https://gitlab.com/lukzmu/data-science/-/blob/master/Other/Merixstudio%20twitter%20sentiment%20analysis/notebook.ipynb) `python`
