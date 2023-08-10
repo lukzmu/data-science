@@ -55,7 +55,7 @@ Over time this repo grew a bit, so for your convenience here are links to sectio
 - [Exploring the Bitcoin Cryptocurrency Market](/data_courses/DataCamp/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb) 
 - [Dr. Semmelweis and the Discovery of Handwashing](/data_courses/DataCamp/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb) 
 - [TV, Halftime Shows, and the Big Game](/data_courses/DataCamp/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) 
-- [Investigating Netflix Movies and Guest Stars in The Office](/data_courses/DataCamp/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+- [Investigating Netflix Movies and Guest Stars in The Office](/data_courses/DataCamp/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/notebook.ipynb)
 
 ## Kaggle
 
